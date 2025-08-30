@@ -1,0 +1,55 @@
+body {
+    background-color: #FFFCF7;
+}
+
+.page {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: max-content;
+}
+
+.half {
+    width: 50%;
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.plant {
+    background-color: #E4F0D0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Lexend", sans-serif;
+    font-weight: bold;
+    color: #A1B5D8;
+}
+
+p {
+    color: #8A9CB4;
+    margin-top: 5vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+.succulentlineart {
+    max-width: 45%;
+    height: auto;
+}
+
+a {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    padding-top: 5vh;
+    color: #9BADA5;
+}
