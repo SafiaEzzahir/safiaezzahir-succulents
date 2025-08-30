@@ -2,7 +2,7 @@ body {
     background-color: #FFFCF7;
 }
 
-.page {
+.main {
     display: flex;
     flex-direction: row;
     width: 100%;
