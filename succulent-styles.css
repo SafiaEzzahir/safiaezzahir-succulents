@@ -1,0 +1,37 @@
+body {
+    background-color: #FFFCF7;
+}
+
+.navbar > ul {
+    color: #8A9CB4;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    /*text-align: center;*/
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.logo {
+    font-size: 22px;
+    font-family: "Lexend", sans-serif;
+    font-weight: bold;
+    color: #A1B5D8;
+}
+
+.navbar > ul > li {
+    list-style-type: none;
+    padding: 1.2vw;
+}
+
+.navbar > ul > li:not(.logo)>a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+.navbar > ul > li > a {
+    color: inherit;
+    text-decoration: inherit;
+}
