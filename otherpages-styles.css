@@ -5,7 +5,6 @@ body {
 .navbar {
     position: sticky;
     top: 0;
-    background-color: #FFFCF7;
 }
 
 .navbar > ul {
@@ -40,17 +39,4 @@ body {
 .navbar > ul > li > a {
     color: inherit;
     text-decoration: inherit;
-}
-
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
-.gallery > img {
-    width: 30vw;
-    height: 30vw;
-    object-fit: cover;
-    margin-bottom: 3vw;
 }
