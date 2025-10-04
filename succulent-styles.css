@@ -48,9 +48,69 @@ body {
     justify-content: space-around;
 }
 
-.gallery > img {
+.image {
     width: 30vw;
     height: 30vw;
     object-fit: cover;
     margin-bottom: 3vw;
+}
+
+.one {
+    background-image: url("photos/succulent1.jpg");
+    background-size: cover;
+}
+
+.two {
+    background-image: url("photos/succulent2.jpg");
+    background-size: cover;
+}
+
+.three {
+    background-image: url("photos/succulent3.jpg");
+    background-size: cover;
+}
+
+.four {
+    background-image: url("photos/succulent4.jpg");
+    background-size: cover;
+}
+
+.five {
+    background-image: url("photos/succulent5.jpg");
+    background-size: cover;
+}
+
+.six {
+    background-image: url("photos/succulent6.jpg");
+    background-size: cover;
+}
+
+.seven {
+    background-image: url("photos/succulent7.jpg");
+    background-size: cover;
+}
+
+.eight {
+    background-image: url("photos/succulent8.jpg");
+    background-size: cover;
+}
+
+.nine {
+    background-image: url("photos/succulent9.jpg");
+    background-size: cover;
+}
+
+.ten {
+    background-image: url("photos/succulent10.jpg");
+    background-size: cover;
+}
+
+.eleven {
+    background-image: url("photos/succulent11.jpg");
+    background-size: cover;
+}
+
+.twelve {
+    background-image: url("photos/succulent12.jpg");
+    background-size: cover;
 }
