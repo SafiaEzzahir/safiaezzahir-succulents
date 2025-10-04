@@ -40,3 +40,12 @@ body {
     color: inherit;
     text-decoration: inherit;
 }
+
+.comingsoon {
+    color: #8A9CB4;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 200px;
+}
